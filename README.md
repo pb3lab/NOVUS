@@ -1,21 +1,17 @@
-# Cloud-based Tutorials on Structural Bioinformatics
-### Institute for Biological and Medical Engineering [(IIBM)](http://iibm.uc.cl), Pontificia Universidad Catolica de Chile
-### ANID – Millennium Science Initiative Program – Millennium Institute for Integrative Biology [(iBio)](http://ibio.cl)
-##
-## Introduction
-This is a set of twelve (12) tutorials on protein folding, function, structure, dynamics and evolution for distance learning using the **Google Colab** free cloud-computing environment.
+# NOVUS LA TRIADA
+## Repositorio abierto de laboratorios prácticos computacionales en la nube para educación STEM
 
-These tutorials were created between Jun-Sep 2018 as part of the **IBM3202 Molecular Modelling and Simulation module** for execution of standalone computers and then fully redesigned between Jun-Jul 2020 for full execution over Google Colab and remote accesibility via web browsers due to the COVID-19 pandemic.
+Este repositorio cuenta con distintos cuadernos de Jupyter con instrucciones y código de Bash y Python para la ejecución de laboratorios prácticos en distintas disciplinas utilizando [Google Colaboratory](https://colab.research.google.com/?hl=es), un servicio alojado en la nube que no requiere configuración y que ofrece acceso gratuito a recursos de computación, incluyendo CPUs, GPUs y TPUs.
 
-Each tutorial includes a brief introduction of the activities to be performed, installation instructions of the open-source software to be used in each session and several programming, visualization and data analysis activities to be achieved during the tutorial.
+Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones de las actividades a realizar, la instalación de *software* adicional a utilizar para cada laboratorio, y distintas celdas de texto y de código en Bash y Python para ejecutar tareas de cómputo, análisis y visualización de datos. Además, todos los laboratorios prácticos se encuentran disponibles tanto en español como en inglés.
 
-## Description of the Tutorials
+## Laboratorios de Modelado y Simulación Molecular
 
-The following is a brief description of each tutorial, along with the open-source software used for each task:
+| Tutorial | Descripción | Versión en español | Versión en inglés | *Software* Adicional |
+|----------|-------------|--------------------|-------------------|----------------------|
+| Lab.01   | Uso de Colab y Breve Revisión de Bases de Datos de Biomoléculas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/lab01_intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/lab01_intro.ipynb) | |
 
-| Tutorial | Description                           | Software                                                        |
-|--------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Lab.00 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab00_software.ipynb) | Installing Software on Google Colab for IBM3202 tutorials (**OBSOLETE**)                           | pyRosetta [1], GROMACS [2], SBM-enhanced GROMACS [3]                                                        |
+
 | Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab01_intro.ipynb) | Warm-up on Colab and Brief Review of Biomolecular Databases                         |                                                                                                             |
 | Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab02_molviz.ipynb) | Visualizing and Comparing Molecular Structures in Google Colab using py3Dmol        | Biopython [4], py3Dmol [5], NGL Viewer [6]                                                                  |
 | Lab.03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab03_phylo.ipynb) | Phylogenetic Analysis using biopython and RAxML                                     | Biopython [4], miniconda [7], MAFFT [8], ModelTest-ng [9], RAxML-ng [10]                                    |

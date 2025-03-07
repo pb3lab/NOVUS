@@ -7,9 +7,9 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 
 
-## Laboratorios de Modelado y Simulación Molecula
+## Laboratorios de Modelado y Simulación Molecular
 
-## Authors
+### Autoras y Autores
 Felipe Engelberger, Pablo Galaz-Davison, Graciela Bravo, Maira Rivera, Jorge González-Higueras, Camila Neira-Mazuhier and César A. Ramírez Sarmiento.
 
 | Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |

@@ -5,7 +5,12 @@ Este repositorio cuenta con distintos cuadernos de Jupyter con instrucciones y c
 
 Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones de las actividades a realizar, la instalación de *software* adicional a utilizar para cada laboratorio, y distintas celdas de texto y de código en Bash y Python para ejecutar tareas de cómputo, análisis y visualización de datos. Además, todos los laboratorios prácticos se encuentran disponibles tanto en español como en inglés.
 
-## Laboratorios de Modelado y Simulación Molecular
+
+
+## Laboratorios de Modelado y Simulación Molecula
+
+## Authors
+Felipe Engelberger, Pablo Galaz-Davison, Graciela Bravo, Maira Rivera, Jorge González-Higueras, Camila Neira-Mazuhier and César A. Ramírez Sarmiento.
 
 | Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
 |----------|-------------|--------------------|--------------------|----------------------|
@@ -15,49 +20,23 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 | Lab.04   | Modelado Comparativo usando MODELLER | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab04_cm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab04_cm.ipynb) | Biopython [4], py3Dmol [5], MODELLER [11] |
 | Lab.05   | Modelado de Proteínas de Membrana usando PyRosetta | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab05_MP_rosetta.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab05_MP_rosetta.ipynb) | pyRosetta [1], py3Dmol [5] |
 | Lab.06   | Acoplamiento Molecular usando Autodock Vina | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab06_docking.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab06_docking.ipynb) | Biopython [4], py3Dmol [5], miniconda [7], Open Babel [12], pdb2pqr [13], MGLTools [14], Autodock Vina [15] |
-| Lab.07   | Dinámica Molecular usando GROMACS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab07_MDsims.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab07_MDsims.ipynb) | pyRosetta [1], py3Dmol [5] |
+| Lab.07   | Dinámica Molecular usando GROMACS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab07_MDsims.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab07_MDsims.ipynb) | GROMACS [2], Biopython [4], py3Dmol [5], NGL Viewer [6] |
+| Lab.08   | Análisis de trajectorias de MD usando MDAnalysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab08_MDanalysis.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab08_MDanalysis.ipynb) | py3Dmol [5], MDAnalysis [16] |
+| Lab.09   | Simulaciones de plegado de proteínas usando modelos basados en estructuras (SBM) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab09_SMOGfolding_docker.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab09_SMOGfolding_docker.ipynb) | SMOG2 Docker [3], udocker, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], NGL Viewer [6] |
+| Lab.10   | Cambios conformacionales usando modelos basados en estructuras (SBM) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab10_SMOGdual_docker.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab10_SMOGdual_docker.ipynb) | SMOG2 Docker [3], udocker, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], NGL Viewer [6] |
+| Lab.11   | Predicción de interacciones en ARN mediante análisis coevolutivos de secuencias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab11_rnaDCA.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab11_rnaDCA.ipynb) | Biopython [4], py3Dmol [5], infernal [17], pyDCA [18] |
+| Lab.12   | Plegado de proteínas ab initio usando Rosetta | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab12_abinitioRosetta.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab12_abinitioRosetta.ipynb) | pyRosetta [1], Biopython [4], py3Dmol [5] |
+| Lab.13   | Combinando DCA y SBM para predecir estructuras de proteínas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab13_protDCASBM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab13_protDCASBM.ipynb) | SMOG2 [3], SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], pyDCA [18] |
 
+## ¡Cita nuestro trabajo!
 
-| Lab.07 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab07_MDsims.ipynb) | Molecular Dynamics on GROMACS                                                       | GROMACS [2], Biopython [4], py3Dmol [5], NGL Viewer [6]                                                     |
-| Lab.08 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab08_MDanalysis.ipynb) | Trajectory Analysis using MDanalysis                                                | py3Dmol [5], MDAnalysis [16]                                                                                |
-| Lab.09 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab09_SMOGfolding_docker.ipynb) | Folding Simulations using Structure-Based Models                                    | SMOG2 Docker, udocker, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], NGL Viewer [6]                                 |
-| Lab.10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab10_SMOGdual_docker.ipynb) | Conformational changes using Structure-Based Models                                 | SMOG2 Docker, udocker, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], NGL Viewer [6]                                 |
-| Lab.11 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab11_rnaDCA.ipynb) | Prediction of interactions from the coevolutionary analysis of sequence information | Biopython [4], py3Dmol [5], infernal [17], pyDCA [18]                      |
-| Lab.12 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab12_abinitioRosetta.ipynb) | Protein folding ab initio using Rosetta                                             | pyRosetta [1], Biopython [4], py3Dmol [5]          
-                                                         |
-
-## Tutorials – 2021 & 2023
-
-The following is a brief description of each tutorial generated in 2021 & 2023, along with the open-source software used for each task:
-
-| Tutorial | Description                           | Software                                                        |
-|--------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Lab.13 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/2021/lab13_protDCASBM.ipynb) | Combining DCA and SBM to predict protein structures | SMOG2, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], pyDCA [18]                          |
-| Lab.14 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/2023/lab14_MSAtransformer.ipynb) | Combining MSA Transformer and SBM to predict protein structures | SMOG2, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], MSA Transformer                          |
-
-
-## Tutorial for Structural Biology in 2022
-
-
-| Tutorial | Description                           | Software                                                        |
-|--------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Lab.15 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/2022/lab15_CF-GROMACS.ipynb) | Combining ColabFold and GROMACS to predict and simulate protein structures | GROMACS [2], Biopython [4], py3Dmol [5], NGL Viewer [6], ColabFold [19]      |
-
-
-## Authors
-Felipe Engelberger, Pablo Galaz-Davison, Graciela Bravo, Maira Rivera and César A. Ramírez Sarmiento.
-
-**Protein Biophysics, Biochemistry and Bioinformatics Lab [(PB<sup>3</sup>)](https://pb3.sitios.ing.uc.cl)**, Institute for Biological and Medical Engineering (IIBM) / Millenium Institute for Integrative Biology (iBio)
-
-## Cite us!
-
-If you use these tutorials in your research/teaching, please **cite us!:**
+Si utilizas estos tutoriales para tus investigaciones y/o docencia, por favor **cita nuestro trabajo publicado**
 
 Engelberger F, Galaz-Davison P, Bravo G, Rivera M, Ramírez-Sarmiento CA (2021) Developing and Implementing Cloud-Based Tutorials that Combine Bioinformatics Software, Interactive Coding and Visualization Exercises for Distance Learning on Structural Bioinformatics. _J Chem Educ 98_(5): 1801-1807. **doi:** [10.1021/acs.jchemed.1c00022](https://dx.doi.org/10.1021/acs.jchemed.1c00022)
 
-## Contributions and Code of Conduct
+## Contribuciones y Código de Conducta
 
-Please **read** our rules on [Contributions and Code of Conduct](https://github.com/pb3lab/ibm3202/blob/master/contributions.md) before making any changes.
+Por favor lee nuestras reglas para [Contribuciones y Código de Conducta](https://github.com/pb3lab/ibm3202/blob/master/contributions.md) antes de hacer cambios.
 
 ## References
 1. Chaudhury S, Lyskov S, Gray JJ. PyRosetta: a script-based interface for implementing molecular modeling algorithms using Rosetta. Bioinformatics. 2010;26:689–91. doi:10.1093/bioinformatics/btq007.

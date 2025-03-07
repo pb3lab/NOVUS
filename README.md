@@ -7,19 +7,6 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 ## 1. Laboratorios de Modelado y Simulación Molecular
 
-**Autoras y Autores:** Felipe Engelberger<sup>1,2,3</sup>, Pablo Galaz-Davison<sup>1,2</sup>, Graciela Bravo<sup>4</sup>, Maira Rivera<sup>1,2,5</sup>, Jorge González-Higueras<sup>1,2</sup>, Camila Neira-Mazuhier<sup>1,2</sup> y César A. Ramírez Sarmiento<sup>1,2</sup>.
-
-<sup>1</sup>Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile, Santiago, Chile.
-
-<sup>2</sup>ANID – Instituto Milenio de Biología Integrativa (iBio), Santiago, Chile.
-
-<sup>3</sup>Institute for Drug Discovery, Leipzig University, Leipzig, Alemania.
-
-<sup>4</sup>Departamento de Ingeniería Química y Bioprocesos, Escuela de Ingeniería, Pontificia Universidad Católica de Chile, Santiago, Chile.
-
-<sup>5</sup>Department of Chemistry, Faculty of Science, McGill University, Montreal, QC H3A 0B8, Canada.
-
-
 | Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
 |----------|-------------|--------------------|--------------------|----------------------|
 | Lab.01   | Uso de Colab y Revisión de Bases de Datos de Biomoléculas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab01_intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab01_intro.ipynb) |  |
@@ -36,7 +23,30 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 | Lab.12   | Plegado de proteínas ab initio usando Rosetta | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab12_abinitioRosetta.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab12_abinitioRosetta.ipynb) | pyRosetta [1], Biopython [4], py3Dmol [5] |
 | Lab.13   | Combinando DCA y SBM para predecir estructuras de proteínas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab13_protDCASBM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab13_protDCASBM.ipynb) | SMOG2 [3], SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], pyDCA [18] |
 
+**Autoras y Autores:** Felipe Engelberger<sup>1,2,3</sup>, Pablo Galaz-Davison<sup>1,2</sup>, Graciela Bravo<sup>4</sup>, Maira Rivera<sup>1,2,5</sup>, Jorge González-Higueras<sup>1,2</sup>, Camila Neira-Mazuhier<sup>1,2</sup> y César A. Ramírez Sarmiento<sup>1,2</sup>.
+
+<sup>1</sup>Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+<sup>2</sup>ANID – Instituto Milenio de Biología Integrativa (iBio), Santiago, Chile.
+
+<sup>3</sup>Institute for Drug Discovery, Leipzig University, Leipzig, Alemania.
+
+<sup>4</sup>Departamento de Ingeniería Química y Bioprocesos, Escuela de Ingeniería, Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+<sup>5</sup>Department of Chemistry, Faculty of Science, McGill University, Montreal, QC H3A 0B8, Canada.
+
 ## 2. Laboratorios de Biodiversidad de Moléculas en Colombia
+
+| Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
+|----------|-------------|--------------------|--------------------|----------------------|
+| Lab.00   | Uso de Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/Biomolecules/Tutorial00_biomolecules.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/Biomolecules/Tutorial00_biomolecules.ipynb) |  |
+| Lab.01   | Explorando la riqueza de la biodiversidad de Colombia: Una vista de cerca a la biomolécula galantamina | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/Biomolecules/Tutorial01_biomolecules.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/Biomolecules/Tutorial01_biomolecules.ipynb) | Biopython [4], py3Dmol [5], NGL Viewer [6] |
+| Lab.02   | Análisis Filogenético usando biopython y RAxML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab03_phylo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab03_phylo.ipynb) | Biopython [4], miniconda [7], MAFFT [8], ModelTest-ng [9], RAxML-ng [10] |
+| Lab.03   | Modelado Comparativo usando MODELLER | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab04_cm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab04_cm.ipynb) | Biopython [4], py3Dmol [5], MODELLER [11] |
+| Lab.04   | Modelado de Proteínas de Membrana usando PyRosetta | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab05_MP_rosetta.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab05_MP_rosetta.ipynb) | pyRosetta [1], py3Dmol [5] |
+| Lab.05   | Acoplamiento Molecular usando Autodock Vina | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab06_docking.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab06_docking.ipynb) | Biopython [4], py3Dmol [5], miniconda [7], Open Babel [12], pdb2pqr [13], MGLTools [14], Autodock Vina [15] |
+| Lab.06   | Dinámica Molecular usando GROMACS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab07_MDsims.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab07_MDsims.ipynb) | GROMACS [2], Biopython [4], py3Dmol [5], NGL Viewer [6] |
+| Lab.07   | Análisis de trajectorias de MD usando MDAnalysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab08_MDanalysis.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab08_MDanalysis.ipynb) | py3Dmol [5], MDAnalysis [16] |
 
 **Autoras y Autores:** Juan Fernando Meza, Cielo Leon Ramos, Francisco Bohorquez Martinez, Wilson Rodriguez Escucha, Adriana Bernal Giraldo, María de los Ángeles Domínguez Cuenca, César A. Ramírez Sarmiento, María Francisca Villegas y Andrés Gonzalez Barrios.
 

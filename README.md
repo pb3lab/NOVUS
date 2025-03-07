@@ -14,8 +14,8 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 
 
-| Tutorial | Descripción | Versión en español | Versión en inglés | *Software* Adicional |
-|----------|-------------|--------------------|-------------------|----------------------|
+| Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
+|----------|-------------|--------------------|--------------------|----------------------|
 | Lab.02   | Visualizando y Comparando Estructuras Moleculares en Google Colab usando py3Dmol | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab02_molviz.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab02_molviz.ipynb) | Biopython [4], py3Dmol [5], NGL Viewer [6] |
 
 

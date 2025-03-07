@@ -7,10 +7,18 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 ## 1. Laboratorios de Modelado y Simulación Molecular
 
-**Autoras y Autores:** Felipe Engelberger<sup>1,2</sup>, Pablo Galaz-Davison<sup>1,2</sup>, Graciela Bravo<sup>1,2</sup>, Maira Rivera<sup>1,2</sup>, Jorge González-Higueras<sup>1,2</sup>, Camila Neira-Mazuhier<sup>1,2</sup> y César A. Ramírez Sarmiento<sup>1,2</sup>.
+**Autoras y Autores:** Felipe Engelberger<sup>1,2,3</sup>, Pablo Galaz-Davison<sup>1,2</sup>, Graciela Bravo<sup>4</sup>, Maira Rivera<sup>1,2,5</sup>, Jorge González-Higueras<sup>1,2</sup>, Camila Neira-Mazuhier<sup>1,2</sup> y César A. Ramírez Sarmiento<sup>1,2</sup>.
 
-<sup>1</sup>Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile, Santiago, Chile
-<sup>2</sup>ANID – Instituto Milenio de Biología Integrativa (iBio), Santiago, Chile. 
+<sup>1</sup>Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+<sup>2</sup>ANID – Instituto Milenio de Biología Integrativa (iBio), Santiago, Chile.
+
+<sup>3</sup>Institute for Drug Discovery, Leipzig University, Leipzig, Alemania.
+
+<sup>4</sup>Departamento de Ingeniería Química y Bioprocesos, Escuela de Ingeniería, Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+<sup>5</sup>Department of Chemistry, Faculty of Science, McGill University, Montreal, QC H3A 0B8, Canada.
+
 
 | Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
 |----------|-------------|--------------------|--------------------|----------------------|

@@ -10,6 +10,7 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 | Tutorial | Descripción | Versión en español | Versión en inglés | *Software* Adicional |
 |----------|-------------|--------------------|-------------------|----------------------|
 | Lab.01   | Uso de Colab y Revisión de Bases de Datos de Biomoléculas | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab01_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120" height="20"/></a> | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab01_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120" height="20"/></a> | |
+| Lab.02   | Visualizando y Comparando Estructuras Moleculares en Google Colab usando py3Dmol | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab02_molviz.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120" height="20"/></a> | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab02_molviz.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120" height="20"/></a> | Biopython [4], py3Dmol [5], NGL Viewer [6] |
 
 
 

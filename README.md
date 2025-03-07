@@ -7,37 +7,28 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 ## Laboratorios de Modelado y Simulación Molecular
 
-<table>
-<thead>
-<tr>
-<th style="width: 15%;">Tutorial</th>
-<th style="width: 30%;">Descripción</th>
-<th style="width: 20%;">Versión en español</th>
-<th style="width: 20%;">Versión en inglés</th>
-<th style="width: 15%;">Software Adicional</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Lab.01</td>
-<td>Uso de Colab y Revisión de Bases de Datos de Biomoléculas</td>
-<td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab01_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
-<td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab01_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
-<td>
-</td>
-</tr>
-<tr>
-<td>Lab.02</td>
-<td>Visualizando y Comparando Estructuras Moleculares en Google Colab usando py3Dmol</td>
-<td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab02_molviz.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
-<td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab02_molviz.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
-<td>Biopython [4], py3Dmol [5], NGL Viewer [6]
-</td>
-</tr>
-</tbody>
-</table>
+| Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
+|----------|-------------|--------------------|--------------------|----------------------|
+| Lab.02   | Visualizando y Comparando Estructuras Moleculares en Google Colab usando py3Dmol | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab02_molviz.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab02_molviz.ipynb) | Biopython [4], py3Dmol [5], NGL Viewer [6] |
 
 
+| Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
+|----------|-------------|--------------------|--------------------|----------------------|
+| Lab.01   | Uso de Colab y Revisión de Bases de Datos de Biomoléculas | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab01_intro.ipynb"><span style="display: inline-block; width: 120px; height: 20px;"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="width: 100%; height: 100%;"/></span></a> | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab01_intro.ipynb"><span style="display: inline-block; width: 120px; height: 20px;"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="width: 100%; height: 100%;"/></span></a> | |
+| Lab.02   | Visualizando y Comparando Estructuras Moleculares en Google Colab usando py3Dmol | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab02_visualizacion.ipynb"><span style="display: inline-block; width: 120px; height: 20px;"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="width: 100%; height: 100%;"/></span></a> | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab02_visualizacion.ipynb"><span style="display: inline-block; width: 120px; height: 20px;"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="width: 100%; height: 100%;"/></span></a> | Biopython [4], py3Dmol [5], NGL Viewer [6] |
+
+
+| Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab02_molviz.ipynb) | Visualizing and Comparing Molecular Structures in Google Colab using py3Dmol        | Biopython [4], py3Dmol [5], NGL Viewer [6]                                                                  |
+| Lab.03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab03_phylo.ipynb) | Phylogenetic Analysis using biopython and RAxML                                     | Biopython [4], miniconda [7], MAFFT [8], ModelTest-ng [9], RAxML-ng [10]                                    |
+| Lab.04 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab04_cm.ipynb) | Comparative Modeling using MODELLER                                                 | Biopython [4], py3Dmol [5], MODELLER [11]                                                                   |
+| Lab.05 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab05_MP_rosetta.ipynb) | Membrane Protein Modelling using PyRosetta                                          | pyRosetta [1], py3Dmol [5]                                                                                  |
+| Lab.06 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab06_docking.ipynb) | Molecular Docking on Autodock                                                       | Biopython [4], py3Dmol [5], miniconda [7], Open Babel [12], pdb2pqr [13], MGLTools [14], Autodock Vina [15] |
+| Lab.07 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab07_MDsims.ipynb) | Molecular Dynamics on GROMACS                                                       | GROMACS [2], Biopython [4], py3Dmol [5], NGL Viewer [6]                                                     |
+| Lab.08 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab08_MDanalysis.ipynb) | Trajectory Analysis using MDanalysis                                                | py3Dmol [5], MDAnalysis [16]                                                                                |
+| Lab.09 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab09_SMOGfolding_docker.ipynb) | Folding Simulations using Structure-Based Models                                    | SMOG2 Docker, udocker, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], NGL Viewer [6]                                 |
+| Lab.10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab10_SMOGdual_docker.ipynb) | Conformational changes using Structure-Based Models                                 | SMOG2 Docker, udocker, SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], NGL Viewer [6]                                 |
+| Lab.11 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab11_rnaDCA.ipynb) | Prediction of interactions from the coevolutionary analysis of sequence information | Biopython [4], py3Dmol [5], infernal [17], pyDCA [18]                      |
+| Lab.12 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab12_abinitioRosetta.ipynb) | Protein folding ab initio using Rosetta                                             | pyRosetta [1], Biopython [4], py3Dmol [5]          
                                                          |
 
 ## Tutorials – 2021 & 2023

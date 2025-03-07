@@ -9,7 +9,7 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 | Tutorial | Descripción | Versión en español | Versión en inglés | *Software* Adicional |
 |----------|-------------|--------------------|-------------------|----------------------|
-| Lab.01   | Uso de Colab y Revisión de Bases de Datos de Biomoléculas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/lab01_intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/lab01_intro.ipynb) | |
+| Lab.01   | Uso de Colab y Revisión de Bases de Datos de Biomoléculas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab01_intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab01_intro.ipynb) | |
 
 
 | Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab01_intro.ipynb) | Warm-up on Colab and Brief Review of Biomolecular Databases                         |                                                                                                             |

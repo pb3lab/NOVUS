@@ -7,6 +7,28 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 ## Laboratorios de Modelado y Simulación Molecular
 
+<table>
+<thead>
+<tr>
+<th style="width: 15%;">Tutorial</th>
+<th style="width: 40%;">Descripción</th>
+<th style="width: 15%;">Versión en español</th>
+<th style="width: 15%;">Versión en inglés</th>
+<th style="width: 15%;">*Software* Adicional</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lab.01</td>
+<td>Uso de Colab y Revisión de Bases de Datos de Biomoléculas</td>
+<td><a href="https://colab.research.google.com/..."><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
+<td><a href="https://colab.research.google.com/..."><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
 | Tutorial | Descripción | Versión en español | Versión en inglés  | *Software* Adicional |
 |----------|-------------|--------------------|--------------------|----------------------|
 | Lab.01   | Uso de Colab y Revisión de Bases de Datos de Biomoléculas | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab01_intro.ipynb"><div style="display:inline-block; width:120px; height:20px;"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="width:100%; height:100%;"/></a> | <a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab01_intro.ipynb"><div style="display:inline-block; width:120px; height:20px;"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="width:110%; height:110%;"/></a> | |

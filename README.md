@@ -35,6 +35,9 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 <sup>5</sup>Department of Chemistry, Faculty of Science, McGill University, Montreal, Canada.
 
+**Repositorio Original:** https://github.com/pb3lab/ibm3202
+
+##
 ## 2. Laboratorios de Biodiversidad de Moléculas en Colombia
 
 | Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
@@ -49,10 +52,19 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 | Lab.07   | Explorando la riqueza de la biodiversidad colombiana: Una mirada de cerca a la biomolécula epicatequina | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/Biomolecules/Tutorial07_biomolecules.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/Biomolecules/Tutorial07_biomolecules.ipynb) | Biopython [1], py3Dmol [2] |
 | Lab.08   | Explorando la riqueza de la biodiversidad colombiana: Una mirada de cerca a la biomolécula cannabidiol | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/Biomolecules/Tutorial08_biomolecules.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/Biomolecules/Tutorial08_biomolecules.ipynb) | Biopython [1], py3Dmol [2] |
 
-**Autoras y Autores:** Juan Fernando Meza, Cielo Leon Ramos, Francisco Bohorquez Martinez, Wilson Rodriguez Escucha, Adriana Bernal Giraldo, María de los Ángeles Domínguez Cuenca, César A. Ramírez Sarmiento, María Francisca Villegas y Andrés Gonzalez Barrios.
+**Autoras y Autores:** Juan Fernando Meza Prada<sup>1</sup>, Cielo Leon Ramos<sup>1</sup>, Francisco Bohorquez Martínez<sup>1</sup>, Wilson Rodríguez Escucha<sup>1</sup>, Adriana Bernal Giraldo<sup>1</sup>, María de los Ángeles Domínguez Cuenca<sup>2</sup>, César A. Ramírez Sarmiento<sup>3,4</sup>, María Francisca Villegas<sup>1</sup> y Andrés Gonzalez Barrios<sup>1,5</sup>.
 
-Department of Biological Science, Universidad de los Andes, Bogotá, Colombia.
-Product and Process Design Group, Department of Chemical and Food Engineering, Universidad de los Andes, Bogotá, Colombia.
+<sup>1</sup>Departamento de Ciencias Biológicas, Universidad de los Andes, Bogotá, Colombia.
+
+<sup>2</sup>Instituto para el Futuro de la Educación, Tecnolólogico de Monterrey, Monterrey, México
+
+<sup>3</sup>Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+<sup>4</sup>ANID – Instituto Milenio de Biología Integrativa (iBio), Santiago, Chile.
+
+<sup>5</sup>Grupo de Diseño de Productos y Procesos, Departaento de Ingeniería Química y de Alimentos, Universidad de los Andes, Bogotá, Colombia.
+
+**Repositorio original:** https://github.com/juferprada97/Biomolecules-tutorials
 
 ## ¡Cita nuestro trabajo!
 

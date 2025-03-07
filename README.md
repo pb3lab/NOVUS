@@ -11,10 +11,10 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 <thead>
 <tr>
 <th style="width: 15%;">Tutorial</th>
-<th style="width: 30%;">Descripción</th>
+<th style="width: 40%;">Descripción</th>
 <th style="width: 15%;">Versión en español</th>
 <th style="width: 15%;">Versión en inglés</th>
-<th style="width: 25%;">Software Adicional</th>
+<th style="width: 15%;">Software Adicional</th>
 </tr>
 </thead>
 <tbody>
@@ -23,14 +23,16 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 <td>Uso de Colab y Revisión de Bases de Datos de Biomoléculas</td>
 <td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab01_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
 <td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab01_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
-<td></td>
+<td>
+</td>
 </tr>
 <tr>
 <td>Lab.02</td>
 <td>Visualizando y Comparando Estructuras Moleculares en Google Colab usando py3Dmol</td>
 <td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab02_molviz.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
 <td><a href="https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab02_molviz.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="120"/></a></td>
-<td></td>
+<td>Biopython [4], py3Dmol [5], NGL Viewer [6]
+</td>
 </tr>
 </tbody>
 </table>

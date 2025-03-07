@@ -11,9 +11,9 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 <thead>
 <tr>
 <th style="width: 15%;">Tutorial</th>
-<th style="width: 40%;">Descripción</th>
-<th style="width: 15%;">Versión en español</th>
-<th style="width: 15%;">Versión en inglés</th>
+<th style="width: 30%;">Descripción</th>
+<th style="width: 20%;">Versión en español</th>
+<th style="width: 20%;">Versión en inglés</th>
 <th style="width: 15%;">Software Adicional</th>
 </tr>
 </thead>

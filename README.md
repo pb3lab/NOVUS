@@ -5,11 +5,12 @@ Este repositorio cuenta con distintos cuadernos de Jupyter con instrucciones y c
 
 Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones de las actividades a realizar, la instalación de *software* adicional a utilizar para cada laboratorio, y distintas celdas de texto y de código en Bash y Python para ejecutar tareas de cómputo, análisis y visualización de datos. Además, todos los laboratorios prácticos se encuentran disponibles tanto en español como en inglés.
 
+## 1. Laboratorios de Modelado y Simulación Molecular
 
+**Autoras y Autores:** Felipe Engelberger<sup>1,2</sup>, Pablo Galaz-Davison<sup>1,2</sup>, Graciela Bravo<sup>1,2</sup>, Maira Rivera<sup>1,2</sup>, Jorge González-Higueras<sup>1,2</sup>, Camila Neira-Mazuhier<sup>1,2</sup> y César A. Ramírez Sarmiento<sup>1,2</sup>.
 
-## Laboratorios de Modelado y Simulación Molecular
-
-**Autoras y Autores:** Felipe Engelberger, Pablo Galaz-Davison, Graciela Bravo, Maira Rivera, Jorge González-Higueras, Camila Neira-Mazuhier y César A. Ramírez Sarmiento.
+<sup>1</sup>Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile, Santiago, Chile
+<sup>2</sup>ANID – Instituto Milenio de Biología Integrativa (iBio), Santiago, Chile. 
 
 | Tutorial | Descripción | Versión en español |  Versión en inglés | *Software* Adicional |
 |----------|-------------|--------------------|--------------------|----------------------|
@@ -26,6 +27,13 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 | Lab.11   | Predicción de interacciones en ARN mediante análisis coevolutivos de secuencias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab11_rnaDCA.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab11_rnaDCA.ipynb) | Biopython [4], py3Dmol [5], infernal [17], pyDCA [18] |
 | Lab.12   | Plegado de proteínas ab initio usando Rosetta | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab12_abinitioRosetta.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab12_abinitioRosetta.ipynb) | pyRosetta [1], Biopython [4], py3Dmol [5] |
 | Lab.13   | Combinando DCA y SBM para predecir estructuras de proteínas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab13_protDCASBM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab13_protDCASBM.ipynb) | SMOG2 [3], SBM-enhanced GROMACS [3], Biopython [4], py3Dmol [5], pyDCA [18] |
+
+## 2. Laboratorios de Biodiversidad de Moléculas en Colombia
+
+**Autoras y Autores:** Juan Fernando Meza, Cielo Leon Ramos, Francisco Bohorquez Martinez, Wilson Rodriguez Escucha, Adriana Bernal Giraldo, María de los Ángeles Domínguez Cuenca, César A. Ramírez Sarmiento, María Francisca Villegas y Andrés Gonzalez Barrios.
+
+Department of Biological Science, Universidad de los Andes, Bogotá, Colombia.
+Product and Process Design Group, Department of Chemical and Food Engineering, Universidad de los Andes, Bogotá, Colombia.
 
 ## ¡Cita nuestro trabajo!
 

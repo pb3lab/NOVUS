@@ -16,6 +16,9 @@ Cada cuaderno de Jupyter consiste de un laboratorio práctico con instrucciones 
 
 
 | Lab.02   | Visualizando y Comparando Estructuras Moleculares en Google Colab usando py3Dmol | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutoriales/ModSimMol/lab02_molviz.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/NOVUS/blob/master/tutorials/ModSimMol/lab02_molviz.ipynb) | Biopython [4], py3Dmol [5], NGL Viewer [6] |
+
+
+
 | Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab02_molviz.ipynb) | Visualizing and Comparing Molecular Structures in Google Colab using py3Dmol        | Biopython [4], py3Dmol [5], NGL Viewer [6]                                                                  |
 | Lab.03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab03_phylo.ipynb) | Phylogenetic Analysis using biopython and RAxML                                     | Biopython [4], miniconda [7], MAFFT [8], ModelTest-ng [9], RAxML-ng [10]                                    |
 | Lab.04 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab04_cm.ipynb) | Comparative Modeling using MODELLER                                                 | Biopython [4], py3Dmol [5], MODELLER [11]                                                                   |
